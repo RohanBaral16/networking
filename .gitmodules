@@ -1,0 +1,6 @@
+[submodule "Computer_Netowrk_CT702"]
+	path = Computer_Netowrk_CT702
+	url = https://github.com/RohanBaral16/Computer_Network_CT702.git
+[submodule "torrent_andothers"]
+	path = torrent_andothers
+	url = https://github.com/swopnil77/Computer_Network_HW.git
